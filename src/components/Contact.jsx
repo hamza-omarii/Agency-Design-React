@@ -2,8 +2,8 @@ import React from "react";
 import styled from "styled-components";
 import Phone from "../img/phone.png";
 import Send from "../img/send.png";
-/* import BackgroundSeemless from "../img/bg3.jpg"; */
-/*   background: url(${BackgroundSeemless}); */
+import Map from "../img/map.png";
+
 const Box = styled.div`
   height: 95vh;
 `;
